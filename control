@@ -1,0 +1,15 @@
+Package: jp.r-plus.opentabbackground
+Name: OpenTabBackground
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: change behavior of Safari open-in-new-page
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: r_plus <anasthasia.r+opentabbackground@gmail.com>
+Section: Tweaks
+dev: rplus
+Tag: purpose::extension
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opentabbackgroundData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=opentabbackgroundData
+Sponsor: thebigboss.org <http://thebigboss.org>
